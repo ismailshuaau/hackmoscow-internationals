@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "storied-deck-257113",
+  "private_key_id": "34a17b6d7650eaa196374d2c761cc8d2615fe5d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC12BitgiNGAW5s\n/kYe5wKAcTFY072aWo7xb4kocncx85BD/Nxm8jetaSmmTItM+wI9wQ6VLPZCVbGS\nieFp+7VuRIZuBptRFbYjPJ7RrwPkuhl6OB+s1Qr+MX9SFS3IVxsdIMO5OvYvpWUc\n9CpvpRXmNcAACZjg/4g3UjbW0nlSed3bOIBUwqBsI8Dhx/uawutI2vwha0QKFVLp\nOwUO8YMpsh2XccJlAyiFvUYdGcFtnPotCfKjI4WfHgp7nlpJCZ6T2yyMjBCabQwU\n+lTmA1vdjPr4IL4Z0vQkOV5hehLd1bDHXieuPt0OO1N/Nmp1Lxe5akm92rgBVnSL\nvanS1K5dAgMBAAECggEAM/6lF7+VPGgeXfXasO1WzskO1ho9JYxtQOWmbzVDlbnR\n70626oyplODz8sQCNLG081lnRQpFI7SDAKaCGJ7LQss/MOicsnOlz69+rfAACf+Y\nV1UC4ZVM/l/CywKZQ6Z8bzi2HhmY2QjOv5elJqUqfNeznY8g8ny+Qysz2Pr3i7gn\nbddnKVACRJsOGS3BMiz4WjST4H4ylIgK01xdQgq667WVViOFM640cJ9Tt1xARjti\nkbh3N3VV94tknCxdjtEkx2Xu7TK2dMNKlGtCjKyoZtpSi9qK+6bwLMDLa/ap/YAD\nrEK7m6RciRe0HFxqb0GXmQ6wQqCTYqjA3/itf4SzdQKBgQDaINXGWx28PVS1y3I/\nysZCYwJECCjN3lwTMZeB+SIe7tPwSEEYG85ZQt0Ak5Mq4QJAK+mdy3CckQ5XC/dB\nK1ACqptiGs6qnc/JCen7Ot/aKbEEfs3hl7akQMZObHHYUMPE23GGTiQ5XNqAYbhK\nKKuG7/lIHY1L+jW7gcLl94kuIwKBgQDVaomQzcLzuJe7iLWvkqUtzoORG7Q3+XD9\nONhb/pmC/UMQv0wNMP4pnqf7dLvN1II8CBtVDGyTcN5zHFwdWUBpO9mA/EVVYbmz\nO/JEtoCKFWsu0xdXUjOJ6ZV1j1X9X5Bh3rHR77Zq14D3kBOuAzTuzx7iNuTKH75h\nkbKO9Qs5fwKBgQDVWHA+xjfbOZF1Djv8sPQhUn2Q1Po0AVzFWSf69BWvc6DPz5v7\nXJcDLybBvZWfxtxQr6Kbt7O5Lxd7hDSeBSMIuJ2p4tZogloNJCk6lGcGFukQoIX2\nNFFrbf+IDQF8teIE1S3AUwWTJYKBNxLtVcIPBQAozN66hUuwzkY2b1o5SQKBgDNt\nvgLgIte6pw3xLt9FdnqoZnokc/R9LuZGuZTJsNKpF21EvB39rXH4IsDs64j5afzv\ncy62lL+fFmwk7GnCJUx2uL5ljIu7xhVUH9jBJg6ghLi+88P+Mh9M49B1nyI00kVT\ndgSCQLJUhmaiGKv5Z9sYnHelBNNUfPtkMeRTVsYfAoGAYYW6F03Pfqa0Wwdh2Aq0\nkG39IkuAVQ0t6QDMrciIHshrxD3jSemrS2r5KShj9n/9MR54EKDA9ebp6j/T5eWL\nGC5OVmQOwpvLQhRvcwTOHNfo05dU4FzDHh7BjC1dnQZnQtVvCroXZvY0HoVAPIo6\nFPY1ELcYU3lphKitWYpOlxQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "internationals-app@storied-deck-257113.iam.gserviceaccount.com",
+  "client_id": "113034042561126702612",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/internationals-app%40storied-deck-257113.iam.gserviceaccount.com"
+}

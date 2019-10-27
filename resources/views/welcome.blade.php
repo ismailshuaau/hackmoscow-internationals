@@ -65,7 +65,7 @@
     </head>
     <body>
         <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
+            {{-- @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
                         <a href="{{ url('/home') }}">Home</a>
@@ -77,11 +77,19 @@
                         @endif
                     @endauth
                 </div>
-            @endif
+            @endif --}}
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    <form action="/save" enctype="multipart/form-data" method="POST">
+                        <p>
+                            <label for="photo">
+                                <input type="file" name="photo" id="photo">
+                            </label>
+                        </p>
+                        <button>Upload</button>
+                        {{ csrf_field() }}
+                    </form>
                 </div>
 
                 <div class="links">

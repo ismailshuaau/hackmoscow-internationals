@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/', 'HomeController@index');
+
+
+Route::get('image', 'ImageController@index');
+Route::post('save', 'ImageController@save');
